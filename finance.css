@@ -1,0 +1,27 @@
+.news-container {
+    background-color: ;
+    padding: 20px;
+    border-radius: ;
+    box-shadow: 0 0  rgba(0, 0, 0, 0.1);
+}
+
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 30px 0;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 128, 128);
+}
+
+a:hover {
+    text-decoration: underline;
+}
